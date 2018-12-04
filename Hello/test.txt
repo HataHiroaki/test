@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 aaaabbbb
 cccc
-=======
 aaaa
 
 iiii
->>>>>>> d131c68f70d472edd1c57a8e3cf312a72c5385f7
+
